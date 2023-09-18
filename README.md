@@ -1,5 +1,5 @@
 # 👋Hi
-This was a project I completed for university during the course `Programming in C` in **2019**.
+This was a project I completed for university during the course `Programming in C` in **2020**.
 The purpose was to use an `Arduino UNO` to develop a timed stepper motor activation script.
 
 I used a DCF77 receiver and a stepper motor to implement the time functionality.
